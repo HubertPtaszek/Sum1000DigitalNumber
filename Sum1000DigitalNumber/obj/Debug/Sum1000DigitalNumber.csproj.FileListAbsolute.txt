@@ -1,0 +1,7 @@
+C:\Users\Hubert\Desktop\Sum1000DigitalNumber\Sum1000DigitalNumber\bin\Debug\Sum1000DigitalNumber.exe.config
+C:\Users\Hubert\Desktop\Sum1000DigitalNumber\Sum1000DigitalNumber\bin\Debug\Sum1000DigitalNumber.exe
+C:\Users\Hubert\Desktop\Sum1000DigitalNumber\Sum1000DigitalNumber\bin\Debug\Sum1000DigitalNumber.pdb
+C:\Users\Hubert\Desktop\Sum1000DigitalNumber\Sum1000DigitalNumber\obj\Debug\Sum1000DigitalNumber.csprojResolveAssemblyReference.cache
+C:\Users\Hubert\Desktop\Sum1000DigitalNumber\Sum1000DigitalNumber\obj\Debug\Sum1000DigitalNumber.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\Desktop\Sum1000DigitalNumber\Sum1000DigitalNumber\obj\Debug\Sum1000DigitalNumber.exe
+C:\Users\Hubert\Desktop\Sum1000DigitalNumber\Sum1000DigitalNumber\obj\Debug\Sum1000DigitalNumber.pdb
